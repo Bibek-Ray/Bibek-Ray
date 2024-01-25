@@ -21,10 +21,6 @@
 
 - 📂 [Repository](https://github.com/Bibek-Ray/Property-Price-Predictor)
 
-## GitHub Stats
-
-![Bibek Ray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bibek-Ray&show_icons=true&theme=dark)
-
 ## Connect with Me
 
 - 📚 [LinkedIn](https://www.linkedin.com/in/bibek-ray-061727220/)
