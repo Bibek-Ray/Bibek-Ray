@@ -12,7 +12,7 @@
 ---
 
 ### 🧑💻 About Me
-- 🔭 **Data Scientist** @ <a href="https://www.tredence.com/">Tredence</a> | Ex-ML Engineer @ AwesomeStartup
+- 🔭 **Data Scientist** @ <a href="https://www.tredence.com/">Tredence</a>
 - 🛠️ **Tech Toolkit**: Python • TensorFlow • PyTorch • React • MongoDB
 - 🌱 **Currently Exploring**: Agentic AI 🤖 • LangChain ⛓️ • Generative AI 🎨
 - 💡 **Passion**: Solving real-world problems with data-driven magic ✨ (especially in NLP & forecasting)
